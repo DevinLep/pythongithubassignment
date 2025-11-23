@@ -6,10 +6,10 @@ I have made this project to be a Python application estimating hours to be run i
 
 ## How to Run
 
-1. Ensure Python 3 is installed.
+1. Ensure Python is installed.
 2. Open a terminal in the project directory.
 
 3. Execute one of these commands:
 
-python app.py
-# or python3 app.py
+githubproject.py
+
