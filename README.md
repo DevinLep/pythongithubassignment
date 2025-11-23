@@ -9,7 +9,7 @@ I have made this project to be a Python application estimating hours to be run i
 1. Ensure Python is installed.
 2. Open a terminal in the project directory.
 
-3. Execute one of these commands:
+3. Execute this command:
 
 githubproject.py
 
